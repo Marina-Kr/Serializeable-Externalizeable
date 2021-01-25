@@ -1,0 +1,145 @@
+[
+    {
+      "name": "parameter1",
+      "description": "description1",
+      "isList": true,
+      "roles": [
+        "role1",
+        "role2"
+      ],
+      "type": "Type1",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "1",
+              "value": "value1"
+            },
+            {
+              "code": "2",
+              "value": "value2"
+            },
+            {
+              "code": "3",
+              "value": "value3"
+            }
+          ],
+          "values": [
+            "value1",
+            "value2"
+          ]
+        }
+      ]
+    },
+	 {
+      "name": "parameter2",
+      "description": "description2",
+      "isList": true,
+      "roles": [
+        "role3",
+        "role4",
+		"role5"
+      ],
+      "type": "Type2",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "4",
+              "value": "value4"
+            },
+            {
+              "code": "5",
+              "value": "value5"
+            }           
+          ],
+          "values": [
+            "value3",
+            "value4"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "parameter3",
+      "description": "description3",
+      "isList": true,
+      "roles": [
+        "role6"
+      ],
+      "type": "Type3",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "6",
+              "value": "value6"
+            },
+            {
+              "code": "7",
+              "value": "value7"
+            }           
+          ],
+          "values": [
+            "value5",
+            "value6",
+			"value7"
+          ]
+        }
+      ]
+    },
+	{
+      "name": "parameter4",
+      "description": "description4",
+      "isList": true,
+      "roles": [
+        "role9",
+		"role10"
+      ],
+      "type": "Type4",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "8",
+              "value": "value8"
+            },
+            {
+              "code": "9",
+              "value": "value9"
+            }           
+          ],
+          "values": [
+            "value8",
+            "value9",
+			"value10"
+          ]
+        }
+      ]
+    },
+		 {
+      "name": "parameter5",
+      "description": "description5",
+      "isList": true,
+      "roles": [
+        "role11",
+		"role12"
+      ],
+      "type": "Type5",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "10",
+              "value": "value10"
+            }           
+          ],
+          "values": [
+            "value11",
+            "value12"
+          ]
+        }
+      ]
+    }
+ ]   
+
